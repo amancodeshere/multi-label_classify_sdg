@@ -1,0 +1,19 @@
+{
+  "url": "https://forge.coreweave.com/wandb/amansharma0603-university-of-new-south-whales/thesis-manual-review/runs/aj3fj5re",
+  "state": "finished",
+  "evaluated_baselines": 12,
+  "artifacts": [
+    {
+      "name": "run-aj3fj5re-comparison:v0",
+      "type": "run_table"
+    },
+    {
+      "name": "unsw-43-evaluation:v1",
+      "type": "evaluation"
+    },
+    {
+      "name": "unsw-43-executed-notebook:v2",
+      "type": "notebook"
+    }
+  ]
+}

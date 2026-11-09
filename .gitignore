@@ -220,3 +220,7 @@ __marimo__/
 # ide
 .idea
 .DS_Store
+
+**/checkpoints/**
+**/model/**
+**/wandb/**

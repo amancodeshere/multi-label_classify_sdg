@@ -1,0 +1,1971 @@
+[
+  {
+    "title": "A SMaRT vision for a sustainable future",
+    "source_type": "showcase",
+    "source_url": "https://www.unsw.edu.au/edi/sustainability-matters/sdg-showcase",
+    "section": "Presentations & workshops",
+    "faculty": "Science",
+    "label_rationale": "Microrecycling and low-carbon steel production address industrial innovation, waste circularity and emissions mitigation.",
+    "affiliation_evidence": "Host affiliation on source showcase page",
+    "text_processing": "Research description only; host biographies and event logistics removed; Markdown stripped; whitespace normalized.",
+    "row_id": "UNSW-001",
+    "csv_row": 2,
+    "labels": [
+      9,
+      12,
+      13
+    ],
+    "word_count": 227,
+    "text_sha256": "3fedd03caadc19e0ac8439de3b347e2901cca6caa90b605b6014d6a51bcee005",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Transforming business practices in global supply chains",
+    "source_type": "showcase",
+    "source_url": "https://www.unsw.edu.au/edi/sustainability-matters/sdg-showcase",
+    "section": "Presentations & workshops",
+    "faculty": "Law & Justice",
+    "label_rationale": "Tests responsible supply-chain practices and human-rights/environmental due diligence: decent work, responsible production, and accountable business conduct.",
+    "affiliation_evidence": "Host affiliation on source showcase page",
+    "text_processing": "Research description only; host biographies and event logistics removed; Markdown stripped; whitespace normalized.",
+    "row_id": "UNSW-002",
+    "csv_row": 3,
+    "labels": [
+      8,
+      12,
+      16
+    ],
+    "word_count": 105,
+    "text_sha256": "9754887e5661c1392228cb8257825f6a2efad2e59ff9b464070a64203172ad75",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "How Can Australia Achieve 50% EV Adoption on Roads by 2035?",
+    "source_type": "showcase",
+    "source_url": "https://www.unsw.edu.au/edi/sustainability-matters/sdg-showcase",
+    "section": "Presentations & workshops",
+    "faculty": "UNSW Canberra",
+    "label_rationale": "Empirical analysis of EV adoption supports sustainable transport and transport decarbonisation; no energy-generation claim is needed.",
+    "affiliation_evidence": "Host affiliation on source showcase page",
+    "text_processing": "Research description only; host biographies and event logistics removed; Markdown stripped; whitespace normalized.",
+    "row_id": "UNSW-003",
+    "csv_row": 4,
+    "labels": [
+      11,
+      13
+    ],
+    "word_count": 197,
+    "text_sha256": "f460b5e42b78ed377da85b1c1e14054cd21096272c9b44d52f0791d485d99f5a",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Water Security: UNSW Partnerships in Timor-Leste",
+    "source_type": "showcase",
+    "source_url": "https://www.unsw.edu.au/edi/sustainability-matters/sdg-showcase",
+    "section": "Exhibition stalls",
+    "faculty": "Engineering",
+    "label_rationale": "Catchment restoration and groundwater monitoring explicitly target food and water security, climate resilience and international capacity-building partnerships.",
+    "affiliation_evidence": "Host affiliation on source showcase page",
+    "text_processing": "Research description only; host biographies and event logistics removed; Markdown stripped; whitespace normalized.",
+    "row_id": "UNSW-004",
+    "csv_row": 5,
+    "labels": [
+      2,
+      6,
+      13,
+      17
+    ],
+    "word_count": 177,
+    "text_sha256": "f5fe8738f7b0254046abe0b5760e34f367aad6f0ce1a51d8f1baa5f39334ab4f",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Neurodiverse-friendly public open spaces",
+    "source_type": "showcase",
+    "source_url": "https://www.unsw.edu.au/edi/sustainability-matters/sdg-showcase",
+    "section": "Exhibition stalls",
+    "faculty": "Arts, Design & Architecture",
+    "label_rationale": "Walking interviews inform inclusive public-space design and reduce exclusion of neurodivergent people.",
+    "affiliation_evidence": "Host affiliation on source showcase page",
+    "text_processing": "Research description only; host biographies and event logistics removed; Markdown stripped; whitespace normalized.",
+    "row_id": "UNSW-005",
+    "csv_row": 6,
+    "labels": [
+      10,
+      11
+    ],
+    "word_count": 148,
+    "text_sha256": "5615f177921363306a57d0527a1f82e39294b0039756a28a13475efebf99cb04",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Integrating education and psychological back pain treatment in primary care",
+    "source_type": "showcase",
+    "source_url": "https://www.unsw.edu.au/edi/sustainability-matters/sdg-showcase",
+    "section": "Exhibition stalls",
+    "faculty": "Medicine & Health",
+    "label_rationale": "Randomised implementation trial tests access to effective back-pain treatment in primary care.",
+    "affiliation_evidence": "Host affiliation on source showcase page",
+    "text_processing": "Research description only; host biographies and event logistics removed; Markdown stripped; whitespace normalized.",
+    "row_id": "UNSW-006",
+    "csv_row": 7,
+    "labels": [
+      3
+    ],
+    "word_count": 213,
+    "text_sha256": "04ec8e5011445b8d70a511efda1c37fd1b3d64c67170c905dfdf0e8b2082bc50",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "BioShelter",
+    "source_type": "showcase",
+    "source_url": "https://www.unsw.edu.au/edi/sustainability-matters/sdg-showcase",
+    "section": "Exhibition stalls",
+    "faculty": "Arts, Design & Architecture",
+    "label_rationale": "Fabricated oyster habitats restore marine biodiversity within modified urban coastal infrastructure; recycling is a component rather than a separately evaluated outcome.",
+    "affiliation_evidence": "Host affiliation on source showcase page",
+    "text_processing": "Research description only; host biographies and event logistics removed; Markdown stripped; whitespace normalized.",
+    "row_id": "UNSW-007",
+    "csv_row": 8,
+    "labels": [
+      11,
+      14
+    ],
+    "word_count": 172,
+    "text_sha256": "d21d59d129995d42e048c2f1ce655ba3b2dfcc5cf1ad3726996499dc28f0041d",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Fighting Corporate Greenwashing: AI-Powered Truth in Sustainability",
+    "source_type": "showcase",
+    "source_url": "https://www.unsw.edu.au/edi/sustainability-matters/sdg-showcase",
+    "section": "Exhibition stalls",
+    "faculty": "Business; Engineering",
+    "label_rationale": "Econometric analysis of 55,000+ firms targets accountable sustainability reporting and climate-disclosure verification.",
+    "affiliation_evidence": "Host affiliation on source showcase page",
+    "text_processing": "Research description only; host biographies and event logistics removed; Markdown stripped; whitespace normalized.",
+    "row_id": "UNSW-008",
+    "csv_row": 9,
+    "labels": [
+      12,
+      13
+    ],
+    "word_count": 161,
+    "text_sha256": "b0cff65c1863fb27f80da25a7e6e644a56fe6c34f8b87b58ad8dd1a2158ed6b0",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Renal, Cardiovascular, and Safety Outcomes of Canagliflozin by Baseline Kidney Function: A Secondary Analysis of the CREDENCE Randomized Trial",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3022616650",
+    "doi": "https://doi.org/10.1681/asn.2019111168",
+    "year": 2020,
+    "faculty": "Medicine & Health",
+    "label_rationale": "Randomised diabetes drug trial measures kidney and cardiovascular outcomes.",
+    "affiliation_evidence": [
+      {
+        "author": "Meg Jardine",
+        "affiliations": [
+          "Concord Repatriation General Hospital, Sydney, New South Wales, Australia",
+          "The George Institute for Global Health, University of New South Wales Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "Concord Repatriation General Hospital",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Zien Zhou",
+        "affiliations": [
+          "Department of Radiology, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, China",
+          "The George Institute for Global Health, University of New South Wales Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "Shanghai Jiao Tong University",
+          "Renji Hospital",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Megumi Oshima",
+        "affiliations": [
+          "Department of Nephrology and Laboratory Medicine, Kanazawa University, Ishikawa, Japan",
+          "The George Institute for Global Health, University of New South Wales Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "Kanazawa University",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Gian Luca Di Tanna",
+        "affiliations": [
+          "The George Institute for Global Health, University of New South Wales Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Hiddo J.L. Heerspink",
+        "affiliations": [
+          "Department of Clinical Pharmacy and Pharmacology, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands",
+          "The George Institute for Global Health, University of New South Wales Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "University Medical Center Groningen",
+          "University of Groningen",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Bruce Charles Neal",
+        "affiliations": [
+          "Imperial College London, London, United Kingdom",
+          "The Charles Perkins Centre, University of Sydney, Sydney, New South Wales, Australia",
+          "The George Institute for Global Health, University of New South Wales Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "The University of Sydney",
+          "UNSW Sydney",
+          "The George Institute for Global Health",
+          "Imperial College London"
+        ]
+      },
+      {
+        "author": "David Collins. Wheeler",
+        "affiliations": [
+          "Department of Renal Medicine, University College London Medical School, London, United Kingdom",
+          "The George Institute for Global Health, University of New South Wales Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health",
+          "University College London"
+        ]
+      },
+      {
+        "author": "Vlado Perkovic",
+        "affiliations": [
+          "Royal North Shore Hospital, Sydney, New South Wales, Australia",
+          "The George Institute for Global Health, University of New South Wales Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "Royal North Shore Hospital",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      }
+    ],
+    "candidate_id": 0,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-009",
+    "csv_row": 10,
+    "labels": [
+      3
+    ],
+    "word_count": 339,
+    "text_sha256": "0423f90d8035f60c0239f51583e49d51b80444a7d3a56cdaabb1964120457b05",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "A digital health intervention for cardiovascular disease management in primary care (CONNECT) randomized controlled trial",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3084153881",
+    "doi": "https://doi.org/10.1038/s41746-020-00325-z",
+    "year": 2020,
+    "faculty": "Medicine & Health",
+    "label_rationale": "Randomised digital cardiovascular care intervention evaluates medication adherence and health behaviour.",
+    "affiliation_evidence": [
+      {
+        "author": "Julie Redfern",
+        "affiliations": [
+          "Faculty of Medicine and Health, The University of Sydney, Westmead Applied Research Centre, Sydney, NSW, Australia",
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "The University of Sydney",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Genevieve Coorey",
+        "affiliations": [
+          "Faculty of Medicine and Health, School of Public Health, University of Sydney, Sydney, NSW Australia",
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "The University of Sydney",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "John Mulley",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Anish Scaria",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Chris Pitt",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Kristie Rebecca Weir",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Joanna Forbes",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Alison Coenen",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Theresa Nguyen",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Mark Harris",
+        "affiliations": [
+          "Centre for Primary Health Care and Equity, UNSW, Sydney, NSW Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Nicholas Arnold Zwar",
+        "affiliations": [
+          "Faculty of Health Sciences & Medicine, Bond University, Gold Coast, QLD Australia",
+          "School of Public Health and Community Medicine, UNSW, Sydney, Australia"
+        ],
+        "institutions": [
+          "Bond University",
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Clara Kayei Chow",
+        "affiliations": [
+          "Faculty of Medicine and Health, The University of Sydney, Westmead Applied Research Centre, Sydney, NSW Australia",
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "The University of Sydney",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Anthony Rodgers",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Emma L. Heeley",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Tim P. Usherwood",
+        "affiliations": [
+          "Department of General Practice, Westmead Clinical School, Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia",
+          "Faculty of Medicine and Health, The University of Sydney, Westmead Applied Research Centre, Sydney, NSW Australia",
+          "The George Institute for Global Health, UNSW, Sydney, NSW Australia"
+        ],
+        "institutions": [
+          "The University of Sydney",
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "David Peiris",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      }
+    ],
+    "candidate_id": 1,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-010",
+    "csv_row": 11,
+    "labels": [
+      3
+    ],
+    "word_count": 257,
+    "text_sha256": "9851ffc3c5972d7e5eed64bbaffec6c9b255e2609e002808951deb21de0fcf14",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Digital mental health interventions in Chinese: a scoping review",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4417272773",
+    "doi": "https://doi.org/10.1038/s41746-025-02129-5",
+    "year": 2025,
+    "faculty": "Medicine & Health",
+    "label_rationale": "Scoping review evaluates effectiveness and access to Chinese-language mental healthcare interventions.",
+    "affiliation_evidence": [
+      {
+        "author": "Wu Yi Zheng",
+        "affiliations": [
+          "Black Dog Institute, University of New South Wales, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "Black Dog Institute",
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Jin Han",
+        "affiliations": [
+          "Black Dog Institute, University of New South Wales, Sydney, NSW, Australia. jh9267@nyu.edu",
+          "Division of Arts and Sciences and Center for Global Health Equity, New York University Shanghai, Shanghai, China. jh9267@nyu.edu",
+          "Division of Arts and Sciences and Center for Global Health Equity, New York University Shanghai, Shanghai, China"
+        ],
+        "institutions": [
+          "Black Dog Institute",
+          "New York University Shanghai",
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 11,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-011",
+    "csv_row": 12,
+    "labels": [
+      3
+    ],
+    "word_count": 148,
+    "text_sha256": "b325b286058aba65a020a3d77194e1a130142b7f8d9d39e87ed897b6d397395f",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "An emerging framework for digital mental health design with Indigenous young people: a scoping review of the involvement of Indigenous young people in the design and evaluation of digital mental health interventions",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4382795565",
+    "doi": "https://doi.org/10.1186/s13643-023-02262-w",
+    "year": 2023,
+    "faculty": "Medicine & Health",
+    "label_rationale": "Participatory digital mental-health design addresses Indigenous youth health disparities and culturally equitable access.",
+    "affiliation_evidence": [
+      {
+        "author": "Michelle H. Torok",
+        "affiliations": [
+          "Black Dog Institute, University of New South Wales, Sydney, NSW, 2052, Australia"
+        ],
+        "institutions": [
+          "Black Dog Institute",
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Fiona Shand",
+        "affiliations": [
+          "Black Dog Institute, University of New South Wales, Sydney, NSW, 2052, Australia"
+        ],
+        "institutions": [
+          "Black Dog Institute",
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 15,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-012",
+    "csv_row": 13,
+    "labels": [
+      3,
+      10
+    ],
+    "word_count": 363,
+    "text_sha256": "0e9b81c48a651dd486604aea78877501e1f49aeb724aeb3cfe9596a76df6ef61",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Using formative research to inform a mental health intervention for adolescents living in Indian slums: the ARTEMIS study",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4391057812",
+    "doi": "https://doi.org/10.1186/s13034-024-00704-4",
+    "year": 2024,
+    "faculty": "Medicine & Health",
+    "label_rationale": "Mixed-methods formative evaluation of an adolescent mental-health intervention in Indian slums; poverty is context, not a tested poverty-reduction outcome.",
+    "affiliation_evidence": [
+      {
+        "author": "David Peiris",
+        "affiliations": [
+          "The George Institute for Global Health, UNSW Sydney, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "The George Institute for Global Health"
+        ]
+      },
+      {
+        "author": "Robyn Norton",
+        "affiliations": [
+          "The George Institute for Global Health, Imperial College London, London, UK",
+          "The George Institute for Global Health, UNSW Sydney, Sydney, Australia"
+        ],
+        "institutions": [
+          "The George Institute for Global Health",
+          "UNSW Sydney",
+          "The George Institute for Global Health",
+          "Imperial College London"
+        ]
+      },
+      {
+        "author": "Pallab Kumar Maulik",
+        "affiliations": [
+          "The George Institute for Global Health, Imperial College London, London, UK. pmaulik@georgeinstitute.org.in",
+          "The George Institute for Global Health, New Delhi, India. pmaulik@georgeinstitute.org.in",
+          "University of New South Wales, Sydney , Australia. pmaulik@georgeinstitute.org.in",
+          "The George Institute for Global Health, Imperial College London, London, UK"
+        ],
+        "institutions": [
+          "The George Institute for Global Health",
+          "UNSW Sydney",
+          "George Institute for Global Health",
+          "Imperial College London"
+        ]
+      }
+    ],
+    "candidate_id": 18,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-013",
+    "csv_row": 14,
+    "labels": [
+      3
+    ],
+    "word_count": 365,
+    "text_sha256": "b1ff12df6677738b00afbc4ae8e539c3dab410b642b8f9a6a02df95564849510",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Emerging inorganic solar cell efficiency tables (version 2)",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3135331393",
+    "doi": "https://doi.org/10.1088/2515-7655/abebca",
+    "year": 2021,
+    "faculty": "Engineering",
+    "label_rationale": "Benchmarks emerging photovoltaic absorbers and solar cell efficiencies.",
+    "affiliation_evidence": [
+      {
+        "author": "Xiaojing Hao",
+        "affiliations": [
+          "Australian Centre for Advanced Photovoltaics, School of Photovoltaic and Renewable Energy Engineering, University of New South Wales (UNSW), Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "Australian Centre for Advanced Photovoltaics"
+        ]
+      }
+    ],
+    "candidate_id": 22,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-014",
+    "csv_row": 15,
+    "labels": [
+      7
+    ],
+    "word_count": 171,
+    "text_sha256": "4a6c284cddb6f5939f57a48fc1514a6569b8d27ab60e682ef24f91a2fd21b5c4",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Predicting Membrane Fouling of Submerged Membrane Bioreactor Wastewater Treatment Plants Using Machine Learning",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4408243669",
+    "doi": "https://doi.org/10.1021/acs.est.4c12835",
+    "year": 2025,
+    "faculty": "Engineering",
+    "label_rationale": "Predicts fouling to improve full-scale wastewater treatment operations; machine learning is the method, not a separate industrial-development outcome.",
+    "affiliation_evidence": [
+      {
+        "author": "Yunyi Zhu",
+        "affiliations": [
+          "UNSW Centre for Transformational Environmental Technologies (CTET)",
+          "UNSW Sydney",
+          "Water Research Centre",
+          "UNSW Centre for Transformational Environmental Technologies (CTET), Yixing 214200, China",
+          "Water Research Centre, UNSW Sydney, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "WRc (United Kingdom)",
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Yuan Wang",
+        "affiliations": [
+          "UNSW Centre for Transformational Environmental Technologies (CTET)",
+          "UNSW Sydney",
+          "Water Research Centre",
+          "UNSW Centre for Transformational Environmental Technologies (CTET), Yixing 214200, China",
+          "Water Research Centre, UNSW Sydney, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "WRc (United Kingdom)",
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Elisabeth Zhu",
+        "affiliations": [
+          "School of Computer Science and Engineering",
+          "UNSW Centre for Transformational Environmental Technologies (CTET)",
+          "UNSW Sydney",
+          "School of Computer Science and Engineering, UNSW Sydney, Sydney, NSW 2052, Australia",
+          "UNSW Centre for Transformational Environmental Technologies (CTET), Yixing 214200, China"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Hanchen Wang",
+        "affiliations": [
+          "School of Computer Science and Engineering",
+          "UNSW Sydney",
+          "School of Computer Science and Engineering, UNSW Sydney, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "T. David Waite",
+        "affiliations": [
+          "UNSW Centre for Transformational Environmental Technologies (CTET)",
+          "UNSW Sydney",
+          "Water Research Centre",
+          "UNSW Centre for Transformational Environmental Technologies (CTET), Yixing 214200, China",
+          "Water Research Centre, UNSW Sydney, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "WRc (United Kingdom)",
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 23,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-015",
+    "csv_row": 16,
+    "labels": [
+      6
+    ],
+    "word_count": 197,
+    "text_sha256": "034e32040337ecbc92ea5e94fe3cf105cfbaa193621925159f5dfadff2cb088a",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Self-Enhanced Decomplexation of Cu-Organic Complexes and Cu Recovery from Wastewaters Using an Electrochemical Membrane Filtration System",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3094460211",
+    "doi": "https://doi.org/10.1021/acs.est.0c05554",
+    "year": 2020,
+    "faculty": "Engineering",
+    "label_rationale": "Electrochemical treatment removes metal pollution from wastewater and recovers copper resources.",
+    "affiliation_evidence": [
+      {
+        "author": "Jinxing Ma",
+        "affiliations": [
+          "School of Civil and Environmental Engineering, The University of New South Wales, Sydney, New South Wales 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "T. David Waite",
+        "affiliations": [
+          "School of Civil and Environmental Engineering, The University of New South Wales, Sydney, New South Wales 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 25,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-016",
+    "csv_row": 17,
+    "labels": [
+      6,
+      12
+    ],
+    "word_count": 231,
+    "text_sha256": "d521aa72ed1b494ef5c29b14822c191d6d24b0ecee612f6318921182959c008a",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Photovoltaic powered operational scale Membrane Capacitive Deionization (MCDI) desalination with energy recovery for treated domestic wastewater reuse",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4366978140",
+    "doi": "https://doi.org/10.1016/j.desal.2023.116647",
+    "year": 2023,
+    "faculty": "Engineering",
+    "label_rationale": "Operational wastewater desalination and reuse trial explicitly tests photovoltaic power and energy recovery.",
+    "affiliation_evidence": [
+      {
+        "author": "Clare Bales",
+        "affiliations": [
+          "Water Research Centre, School of Civil and Environmental Engineering, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Boyue Lian",
+        "affiliations": [
+          "Water Research Centre, School of Civil and Environmental Engineering, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Yunyi Zhu",
+        "affiliations": [
+          "Water Research Centre, School of Civil and Environmental Engineering, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Hang Zhou",
+        "affiliations": [
+          "School of Telecommunications and Electrical Engineering, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Yuan Wang",
+        "affiliations": [
+          "UNSW Centre for Transformational Environmental Technologies, Yixing, Jiangsu 214206, PR China",
+          "Water Research Centre, School of Civil and Environmental Engineering, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "John Fletcher",
+        "affiliations": [
+          "School of Telecommunications and Electrical Engineering, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "T. David Waite",
+        "affiliations": [
+          "UNSW Centre for Transformational Environmental Technologies, Yixing, Jiangsu 214206, PR China",
+          "Water Research Centre, School of Civil and Environmental Engineering, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 27,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-017",
+    "csv_row": 18,
+    "labels": [
+      6,
+      7
+    ],
+    "word_count": 204,
+    "text_sha256": "3e543f215ae525fa9a10d86777a8baba0c41c4449ddda9ff86116af2854cc6cb",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Electronic Waste-derived Materials for Advanced Wastewater Treatment",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W7160598723",
+    "doi": "https://doi.org/10.65638/2979-2746.2025.1.3",
+    "year": 2025,
+    "faculty": "Engineering",
+    "label_rationale": "Review evaluates e-waste valorisation as materials for wastewater pollutant removal and resource recovery.",
+    "affiliation_evidence": [
+      {
+        "author": "Zhiqian Xu",
+        "affiliations": [
+          "School of Civil and Environmental Engineering, The University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 30,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-018",
+    "csv_row": 19,
+    "labels": [
+      6,
+      12
+    ],
+    "word_count": 179,
+    "text_sha256": "8a0b01cb1e37b31ab27070ce2a2e30ca099c1092003d60ad2903271cca81b655",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Energy Management System for Hybrid Renewable Energy-Based Electric Vehicle Charging Station",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4328007713",
+    "doi": "https://doi.org/10.1109/access.2023.3259232",
+    "year": 2023,
+    "faculty": "UNSW Canberra",
+    "label_rationale": "Optimises renewable-powered EV charging costs and renewable utilisation, with explicit greenhouse-gas reductions.",
+    "affiliation_evidence": [
+      {
+        "author": "Ashish Kumar Karmaker",
+        "affiliations": [
+          "School of Engineering and Information Technology, The University of New South Wales (UNSW), Canberra, ACT, Australia",
+          "Department of Electrical and Electronic Engineering, Dhaka University of Engineering & Technology, Gazipur, Bangladesh"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "Dhaka University of Engineering & Technology",
+          "UNSW Canberra"
+        ]
+      },
+      {
+        "author": "Hemanshu Roy Pota",
+        "affiliations": [
+          "School of Engineering and Information Technology, The University of New South Wales (UNSW), Canberra, ACT, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "UNSW Canberra"
+        ]
+      }
+    ],
+    "candidate_id": 138,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-019",
+    "csv_row": 20,
+    "labels": [
+      7,
+      11,
+      13
+    ],
+    "word_count": 120,
+    "text_sha256": "31e53939c048d698b341ac5b05dd24861782d69c88b393e0a272b8788bd785e4",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Global marine conservation priorities for sustaining marine productivity, preserving biodiversity and addressing climate change",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4390826920",
+    "doi": "https://doi.org/10.1016/j.marpol.2024.106016",
+    "year": 2024,
+    "faculty": "Science",
+    "label_rationale": "Maps marine conservation priorities to preserve biodiversity and protect oceanic carbon sinks.",
+    "affiliation_evidence": [
+      {
+        "author": "Hedley S. Grantham",
+        "affiliations": [
+          "Bush Heritage Australia, Melbourne, VIC, Australia",
+          "Centre for Ecosystem Science, University of New South Wales, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "Bush Heritage Australia",
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 35,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-020",
+    "csv_row": 21,
+    "labels": [
+      13,
+      14
+    ],
+    "word_count": 196,
+    "text_sha256": "8765a57d4281ba71c0332bac63ea29f47d0561acbf71b6fe983d8961622f1d19",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "A global overview of marine heatwaves in a changing climate",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4404542609",
+    "doi": "https://doi.org/10.1038/s43247-024-01806-9",
+    "year": 2024,
+    "faculty": "Science",
+    "label_rationale": "Reviews climate-driven marine heatwaves, ecosystem impacts, projection and prediction.",
+    "affiliation_evidence": [
+      {
+        "author": "Alex Sen Gupta",
+        "affiliations": [
+          "Australian Research Council , Centre of Excellence for Climate Extremes , University of New South Wales , Sydney , NSW , Australia",
+          "Climate Change Research Centre and Centre for Marine Science and Innovation, University of New South Wales, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "Australian Research Council",
+          "UNSW Sydney",
+          "Climate Change Research Centre",
+          "ARC Centre of Excellence for Climate Extremes"
+        ]
+      },
+      {
+        "author": "Amandine Schaeffer",
+        "affiliations": [
+          "Center for Marine Science and Innovation, UNSW, Sydney, Australia",
+          "School of Mathematics and Statistics, UNSW, Sydney, Australia",
+          "School of Mathematics and Statistics, UNSW, Sydney, NSW, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 39,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-021",
+    "csv_row": 22,
+    "labels": [
+      13,
+      14
+    ],
+    "word_count": 157,
+    "text_sha256": "fd93f05eff3a5f64502c8c35cb083c90556658636ed014e1198cbfc36ea56441",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Defining biodiverse reforestation: Why it matters for climate change mitigation and biodiversity",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4296483170",
+    "doi": "https://doi.org/10.1002/ppp3.10329",
+    "year": 2022,
+    "faculty": "Science",
+    "label_rationale": "Evaluates biodiversity definitions and restoration goals in carbon-sequestering reforestation.",
+    "affiliation_evidence": [
+      {
+        "author": "Charlotte H. Mills",
+        "affiliations": [
+          "AirSeed Technologies, Sydney, New South Wales, Australia",
+          "School of Biological, Earth &amp; Environmental Sciences UNSW  Sydney New South Wales Australia",
+          "School of Biological, Earth & Environmental Sciences, UNSW, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 43,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-022",
+    "csv_row": 23,
+    "labels": [
+      13,
+      15
+    ],
+    "word_count": 256,
+    "text_sha256": "241fa699ba772683ab48998edcb9b1e79dc2c476e601a405b1262b19289dbf1d",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Quantifying the impacts of Australian bushfires on native forests and gray-headed flying foxes",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3147242047",
+    "doi": "https://doi.org/10.1016/j.gecco.2021.e01566",
+    "year": 2021,
+    "faculty": "Science",
+    "label_rationale": "Quantifies climate-linked wildfire impacts on forests and threatened flying-fox habitat.",
+    "affiliation_evidence": [
+      {
+        "author": "Peggy Eby",
+        "affiliations": [
+          "Centre for Ecosystem Science, University of New South Wales, Sydney, NSW 2052, Australia",
+          "Environmental Futures Research Institute, Griffith University, Nathan, QLD 4111, Australia"
+        ],
+        "institutions": [
+          "Griffith University",
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 46,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-023",
+    "csv_row": 24,
+    "labels": [
+      13,
+      15
+    ],
+    "word_count": 332,
+    "text_sha256": "9f6b69de676fb422cc60508ced944d62220c1abe16834176b3767fbc531ba3e2",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Widespread short‐term persistence of frog species after the 2019–2020 bushfires in eastern Australia revealed by citizen science",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3089000307",
+    "doi": "https://doi.org/10.1111/csp2.287",
+    "year": 2020,
+    "faculty": "Science",
+    "label_rationale": "Citizen-science analysis tests frog persistence after extreme fires and explicitly considers changing climate-driven fire regimes.",
+    "affiliation_evidence": [
+      {
+        "author": "Jodi J. L. Rowley",
+        "affiliations": [
+          "Australian Museum Research Institute; Australian Museum Sydney New South Wales Australia",
+          "Centre for Ecosystem Science; School of Biological, Earth and Environmental Sciences, UNSW Sydney Sydney New South Wales Australia"
+        ],
+        "institutions": [
+          "Australian Museum",
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Corey T. Callaghan",
+        "affiliations": [
+          "Centre for Ecosystem Science; School of Biological, Earth and Environmental Sciences, UNSW Sydney  Sydney New South Wales Australia",
+          "Ecology &amp; Evolution Research Centre, School of Biological, Earth and Environmental Sciences, UNSW Sydney  Sydney New South Wales Australia",
+          "Centre for Ecosystem Science",
+          "Ecology & Evolution Research Centre, School of Biological, Earth and Environmental Sciences, UNSW Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "William K. Cornwell",
+        "affiliations": [
+          "Centre for Ecosystem Science; School of Biological, Earth and Environmental Sciences, UNSW Sydney  Sydney New South Wales Australia",
+          "Ecology &amp; Evolution Research Centre, School of Biological, Earth and Environmental Sciences, UNSW Sydney  Sydney New South Wales Australia",
+          "Centre for Ecosystem Science",
+          "Ecology & Evolution Research Centre, School of Biological, Earth and Environmental Sciences, UNSW Sydney, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 49,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-024",
+    "csv_row": 25,
+    "labels": [
+      13,
+      15
+    ],
+    "word_count": 197,
+    "text_sha256": "0b0bdaab44b0790fc3a971d4fa7235c15f8da3229fc46a0dc04ac220906619be",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Attribution of the Australian bushfire risk to anthropogenic climate change",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3012174158",
+    "doi": "https://doi.org/10.5194/nhess-21-941-2021",
+    "year": 2021,
+    "faculty": "UNSW Canberra",
+    "label_rationale": "Climate attribution study estimates anthropogenic changes in extreme fire-weather risk.",
+    "affiliation_evidence": [
+      {
+        "author": "Sophie C. Lewis",
+        "affiliations": [
+          "University of New South Wales, Canberra, ACT, Australia",
+          "School of Science, University of New South Wales, Canberra, ACT, Australia"
+        ],
+        "institutions": [
+          "UNSW Canberra"
+        ]
+      }
+    ],
+    "candidate_id": 120,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-025",
+    "csv_row": 26,
+    "labels": [
+      13
+    ],
+    "word_count": 259,
+    "text_sha256": "63853574e11a4df5fd90a11619c8f4df5171732af3fe7f068d660edb350f1274",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Allocating Housing Assistance After the Decentring of Social Housing: From Rationing to Social Sorting",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4399495146",
+    "doi": "https://doi.org/10.1080/14036096.2024.2362205",
+    "year": 2024,
+    "faculty": "Arts, Design & Architecture",
+    "label_rationale": "Fieldwork evaluates allocation of housing assistance and exclusion of low-income households from adequate housing.",
+    "affiliation_evidence": [
+      {
+        "author": "Andrew Clarke",
+        "affiliations": [
+          "University of New South Wales",
+          "School of Social Sciences, University of New South Wales, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Hal Pawson",
+        "affiliations": [
+          "University of New South Wales",
+          "City Futures Research Centre, University of New South Wales, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 57,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-026",
+    "csv_row": 27,
+    "labels": [
+      10,
+      11
+    ],
+    "word_count": 150,
+    "text_sha256": "35bd6e101501640a5a38a47c35d2a1311d45c17c087c8c79d10ddb863bbcf395",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "The evolution of syntactic and dimensional properties in Sydney social housing",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W7104069952",
+    "doi": "https://doi.org/10.1108/ohi-02-2025-0051",
+    "year": 2025,
+    "faculty": "Arts, Design & Architecture",
+    "label_rationale": "Computational analysis of social-housing layouts informs adaptable urban housing design.",
+    "affiliation_evidence": [
+      {
+        "author": "Rui Wu",
+        "affiliations": [
+          "School of Built Environment, University of New South Wales , ,"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Ju Hyun Lee",
+        "affiliations": [
+          "School of Built Environment, University of New South Wales , ,"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Michael J. Ostwald",
+        "affiliations": [
+          "School of Built Environment, University of New South Wales , ,"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Michael J. Dawes",
+        "affiliations": [
+          "School of Built Environment, University of New South Wales , ,"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 61,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-027",
+    "csv_row": 28,
+    "labels": [
+      11
+    ],
+    "word_count": 212,
+    "text_sha256": "e7fcda0748fe39435b4ded9e2c99974655583843f4cf2b0dbf23c8c8c6e5059c",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Housing affordability and the teacher workforce: the case of Hobart, Australia",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W7160555228",
+    "doi": "https://doi.org/10.3389/frsc.2026.1793407",
+    "year": 2026,
+    "faculty": "Arts, Design & Architecture",
+    "label_rationale": "Integrated housing and education data link housing affordability to teacher-workforce shortages.",
+    "affiliation_evidence": [
+      {
+        "author": "Nicola Kidston",
+        "affiliations": [
+          "Housing Affordability and the Teacher Shortage (HATS) Lab, School of Education, UNSW Sydney"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Scott Eacott",
+        "affiliations": [
+          "Housing Affordability and the Teacher Shortage (HATS) Lab, School of Education, UNSW Sydney"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Zih-Hong Lin",
+        "affiliations": [
+          "Housing Affordability and the Teacher Shortage (HATS) Lab, School of Education, UNSW Sydney"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 63,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-028",
+    "csv_row": 29,
+    "labels": [
+      4,
+      11
+    ],
+    "word_count": 170,
+    "text_sha256": "a5579d61990899414ece399f002226b7c1e028488d9e0b2ea7bed96f8c883d82",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Inclusive, colour-blind, and deficit: Understanding teachers' contradictory views of Aboriginal students’ participation in education",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4225723195",
+    "doi": "https://doi.org/10.1007/s13384-022-00517-4",
+    "year": 2022,
+    "faculty": "Arts, Design & Architecture",
+    "label_rationale": "Teacher interviews examine racialised deficit discourses and inclusive education for Aboriginal students.",
+    "affiliation_evidence": [
+      {
+        "author": "Sara Weuffen",
+        "affiliations": [
+          "University of New South Wales, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Kevin Lowe",
+        "affiliations": [
+          "University of New South Wales, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 65,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-029",
+    "csv_row": 30,
+    "labels": [
+      4,
+      10
+    ],
+    "word_count": 127,
+    "text_sha256": "804642d6b6ebb517375403d8d77d9fc1157f762d97c3647675e8415389f1e1e0",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Sex Education for Students with an Intellectual Disability: Teachers’ Experiences and Perspectives",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4285093314",
+    "doi": "https://doi.org/10.3390/socsci11070302",
+    "year": 2022,
+    "faculty": "Arts, Design & Architecture",
+    "label_rationale": "Inclusive study of sexuality education and sexual-health autonomy for learners with intellectual disability.",
+    "affiliation_evidence": [
+      {
+        "author": "Iva Strnadová",
+        "affiliations": [
+          "Disability Innovation Institute, University of New South Wales, Sydney, NSW 2052, Australia",
+          "School of Education, Faculty of Arts, Design and Architecture, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Julie Loblinzk",
+        "affiliations": [
+          "School of Education, Faculty of Arts, Design and Architecture, University of New South Wales, Sydney, NSW 2052, Australia",
+          "Self Advocacy Sydney, Inc., Sydney, NSW 2148, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Joanne Danker",
+        "affiliations": [
+          "School of Education, Faculty of Arts, Design and Architecture, University of New South Wales, Sydney, NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 67,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-030",
+    "csv_row": 31,
+    "labels": [
+      3,
+      4,
+      10
+    ],
+    "word_count": 160,
+    "text_sha256": "03d5e1dee5bf94409262894ce28b5bc39a8156f8a2c4e6b79d466bffc754b565",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Transitions of Students with Autism and Intellectual Disabilities in Inclusive Settings: The Nexus Between Recommended and Actual Practice",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3009847058",
+    "doi": "https://doi.org/10.1017/jsi.2020.1",
+    "year": 2020,
+    "faculty": "Arts, Design & Architecture",
+    "label_rationale": "Qualitative study evaluates inclusive educational transitions for students with autism and intellectual disability.",
+    "affiliation_evidence": [
+      {
+        "author": "Therese M. Cumming",
+        "affiliations": [
+          "UNSW, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Iva Strnadová",
+        "affiliations": [
+          "UNSW, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Joanne Danker",
+        "affiliations": [
+          "UNSW, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 70,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-031",
+    "csv_row": 32,
+    "labels": [
+      4,
+      10
+    ],
+    "word_count": 199,
+    "text_sha256": "37ffeaae35a76b1cc6d54f79fe87c25485a46342fa1da5a19d9e4db17c8f49bb",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Zero-knowledge proofs in education: a pathway to disability inclusion and equitable learning opportunities",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4391574043",
+    "doi": "https://doi.org/10.1186/s40561-024-00294-w",
+    "year": 2024,
+    "faculty": "Business",
+    "label_rationale": "Privacy-preserving disability support prototype aims at equitable educational access; technology itself does not justify SDG 9.",
+    "affiliation_evidence": [
+      {
+        "author": "Xiao Xiong Xu",
+        "affiliations": [
+          "UNSW Sydney Business School, University of New South Wales, Kensington, Australia",
+          "UNSW Sydney Business School, University of New South Wales, Kensington, NSW, 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 76,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-032",
+    "csv_row": 33,
+    "labels": [
+      4,
+      10
+    ],
+    "word_count": 184,
+    "text_sha256": "d5578c6676180c1f62e51ee0e8ac853202f46a7aba9127dc7bf92c59669c1ea7",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Board Independence and Corporate Water Disclosure: The Role of Board Diversity",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4386714432",
+    "doi": "https://doi.org/10.15244/pjoes/168720",
+    "year": 2023,
+    "faculty": "Business",
+    "label_rationale": "Content analysis links corporate governance to water responsibility and sustainability reporting; board gender diversity is an explanatory variable rather than a gender-equality intervention.",
+    "affiliation_evidence": [
+      {
+        "author": "Jingduan Li",
+        "affiliations": [
+          "School of Accounting, Auditing and Taxation , University of New South Wales , Room 3005 , Quadrangle Building ,",
+          "UNSW, Sydney NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Yunqing Su",
+        "affiliations": [
+          "School of Geography and Tourism, Anhui Normal University, 189 Jiuhua South Road, Wuhu, Anhui 241002, China",
+          "UNSW , Sydney NSW 2052 , Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "Anhui Normal University"
+        ]
+      }
+    ],
+    "candidate_id": 77,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-033",
+    "csv_row": 34,
+    "labels": [
+      6,
+      12
+    ],
+    "word_count": 124,
+    "text_sha256": "df87d2b7014156b2791509d6f4110b72f0199aaccc3614748c95e73f6fe9b647",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Interfaces of domestic violence and organization: Gendered violence and inequality",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3046034817",
+    "doi": "https://doi.org/10.1111/gwao.12515",
+    "year": 2020,
+    "faculty": "Business",
+    "label_rationale": "Analyses gendered domestic violence across workplace and organisational interfaces and responsibilities.",
+    "affiliation_evidence": [
+      {
+        "author": "Tracy Patricia Wilcox",
+        "affiliations": [
+          "University of New South Wales, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 88,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-034",
+    "csv_row": 35,
+    "labels": [
+      5,
+      8
+    ],
+    "word_count": 148,
+    "text_sha256": "f599dbef8fc471bf8fb4fa1c090f85da47e35b298576ad108fd050566134a5c1",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Temporal Orientation and Corporate Social Responsibility: Global Evidence",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4292572750",
+    "doi": "https://doi.org/10.1111/joms.12861",
+    "year": 2022,
+    "faculty": "Business",
+    "label_rationale": "Global empirical study links investor, firm and national time horizons to corporate social and environmental responsibility.",
+    "affiliation_evidence": [
+      {
+        "author": "Jimi Kim",
+        "affiliations": [
+          "University of New South Wales",
+          "Address for reprints: Jimi Kim, School of Management, University of New South Wales, Sydney, NSW 2052, Australia ([email protected])"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 83,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-035",
+    "csv_row": 36,
+    "labels": [
+      12
+    ],
+    "word_count": 151,
+    "text_sha256": "56c6930aa1d4ac2fe90846da40b35bef2199850bc71df2ccb0c4151c5730f753",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Life-course inequalities in intrinsic capacity and healthy ageing, China",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W4367598513",
+    "doi": "https://doi.org/10.2471/blt.22.288888",
+    "year": 2023,
+    "faculty": "Business",
+    "label_rationale": "Life-course modelling measures socioeconomic inequalities in healthy ageing.",
+    "affiliation_evidence": [
+      {
+        "author": "Yafei Si",
+        "affiliations": [
+          "School of Risk & Actuarial Studies, University of New South Wales, 223 Anzac Parade Kensington, Sydney NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Katja Hanewald",
+        "affiliations": [
+          "School of Risk & Actuarial Studies, University of New South Wales, 223 Anzac Parade Kensington, Sydney NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Shu Chen",
+        "affiliations": [
+          "School of Risk & Actuarial Studies, University of New South Wales, 223 Anzac Parade Kensington, Sydney NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Bingqin Li",
+        "affiliations": [
+          "Social Policy Research Centre, University of New South Wales, Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Hazel Bateman",
+        "affiliations": [
+          "School of Risk & Actuarial Studies, University of New South Wales, 223 Anzac Parade Kensington, Sydney NSW 2052, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "John Beard",
+        "affiliations": [
+          "ARC Centre of Excellence in Population Ageing Research, University of New South Wales, Sydney, Australia",
+          "Research"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 96,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-036",
+    "csv_row": 37,
+    "labels": [
+      3,
+      10
+    ],
+    "word_count": 247,
+    "text_sha256": "6621b7a90de8e0ee24deb8ec5cc0da569841b6977073ad46e11b3e09222e1012",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Renewable energy penetration and energy security in electricity markets",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3175146006",
+    "doi": "https://doi.org/10.1002/er.6897",
+    "year": 2021,
+    "faculty": "Business",
+    "label_rationale": "Electricity-market simulation evaluates reliability, resilience and security under rising renewable-energy shares.",
+    "affiliation_evidence": [
+      {
+        "author": "Juan Pablo Ríos Ocampo",
+        "affiliations": [
+          "Department of Administrative Sciences. Faculty of Economic and Administrative Sciences Instituto Tecnológico Metropolitano, ITM  Medellín Colombia",
+          "Department of Computer Sciences and Decision and Integrate Decision Sciences Group, Faculty of Mines Universidad Nacional de Colombia  Medellín Colombia",
+          "UNSW Business School, The University of New South Wales, Sydney, New South Wales, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney",
+          "Universidad Nacional de Colombia",
+          "Institución Universitaria ITM"
+        ]
+      }
+    ],
+    "candidate_id": 137,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-037",
+    "csv_row": 38,
+    "labels": [
+      7
+    ],
+    "word_count": 344,
+    "text_sha256": "9523969d253842503970dcc3a897c8422eeb6f07d36a1911bcb7582f88937817",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Refugee Participation Revisited: The Contributions of Refugees to Early International Refugee Law and Policy",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3109687700",
+    "doi": "https://doi.org/10.1093/rsq/hdaa040",
+    "year": 2020,
+    "faculty": "Law & Justice",
+    "label_rationale": "Historical primary-source analysis examines refugee participation in law and policymaking, supporting inclusion and representative institutions.",
+    "affiliation_evidence": [
+      {
+        "author": "Tristan Harley",
+        "affiliations": [
+          "Centre for International Refugee Law, University of New South Wales"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 98,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-038",
+    "csv_row": 39,
+    "labels": [
+      10,
+      16
+    ],
+    "word_count": 192,
+    "text_sha256": "99db7195f77b113556a0b54ccb7eae0e46c3fb082a20f64da285c83106dc6705",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Refugee Protection in the COVID-19 Crisis and Beyond: The Capacity and Limits of International Law",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3158473235",
+    "doi": "https://doi.org/10.53637/nhgb1203",
+    "year": 2021,
+    "faculty": "Law & Justice",
+    "label_rationale": "Legal analysis evaluates refugee protection and rights under pandemic restrictions and climate-linked displacement.",
+    "affiliation_evidence": [
+      {
+        "author": "Michelle Foster",
+        "affiliations": [
+          "Centre for International Refugee Law, Faculty of Law, UNSW Sydney, Australia",
+          "Centre on Statelessness, Melbourne Law School, The University of Melbourne, Australia",
+          "Rights of Refugees to Protection', Kaldor Centre for International Refugee Law",
+          " Professor of Law, University of Technology Sydney, Australia"
+        ],
+        "institutions": [
+          "University of Technology Sydney",
+          "The University of Melbourne",
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Hélène Lambert",
+        "affiliations": [
+          "Centre for International Refugee Law, Faculty of Law, UNSW Sydney, Australia",
+          "Centre on Statelessness, Melbourne Law School, The University of Melbourne, Australia",
+          "Rights of Refugees to Protection', Kaldor Centre for International Refugee Law",
+          " Professor of Law, University of Technology Sydney, Australia"
+        ],
+        "institutions": [
+          "University of Technology Sydney",
+          "The University of Melbourne",
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 100,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-039",
+    "csv_row": 40,
+    "labels": [
+      10,
+      13,
+      16
+    ],
+    "word_count": 147,
+    "text_sha256": "2fc9623439ef106f24cd12364eb0df7f771d40e6b462eccda21bcbaf4a491c3b",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "The Concept of “International Protection” in the Global Compacts on Refugees and Migration",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3127833816",
+    "doi": "https://doi.org/10.1080/1369801x.2020.1854105",
+    "year": 2021,
+    "faculty": "Law & Justice",
+    "label_rationale": "Legal analysis argues for equitable international protection of forced migrants beyond narrow refugee categories.",
+    "affiliation_evidence": [
+      {
+        "author": "Jane McAdam",
+        "affiliations": [
+          "Kaldor Centre for International Refugee Law, UNSW Sydney, Australia",
+          "University of New South Wales (UNSW) - Faculty of Law"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Tamara Wood",
+        "affiliations": [
+          "Kaldor Centre for International Refugee Law, UNSW Sydney, Australia",
+          "University of New South Wales - UNSW"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 101,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-040",
+    "csv_row": 41,
+    "labels": [
+      10,
+      16
+    ],
+    "word_count": 257,
+    "text_sha256": "e48ef27cab33f74572606982d9f18addcd029678e9f1005ec53374430f92fac4",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "The Human Right to Justice for Older Persons With Mental Health Conditions",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3187971700",
+    "doi": "https://doi.org/10.1016/j.jagp.2021.07.007",
+    "year": 2021,
+    "faculty": "Law & Justice",
+    "label_rationale": "Examines ageist and disability-related barriers to access to justice; mental health describes the protected group rather than a clinical treatment.",
+    "affiliation_evidence": [
+      {
+        "author": "Andrew C. Byrnes",
+        "affiliations": [
+          "Faculty of Law and Justice, University of New South Wales, Australian Human Rights Institute, Ageing Futures Institute, UNSW (AB), Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      },
+      {
+        "author": "Carmelle Peisah",
+        "affiliations": [
+          "School of Psychiatry, Faculty Medicine, and Ageing Futures Institute, University of New South Wales, Capacity Australia (CP), Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 109,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-041",
+    "csv_row": 42,
+    "labels": [
+      10,
+      16
+    ],
+    "word_count": 201,
+    "text_sha256": "11a94d30987d48c60e3dcf088423f8fbb0eaacf44954880921d88a3b974fa3d7",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "Creating the law school as a meeting place for epistemologies: decolonising the teaching of jurisprudence and human rights",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3097164973",
+    "doi": "https://doi.org/10.1080/03069400.2020.1827821",
+    "year": 2020,
+    "faculty": "Law & Justice",
+    "label_rationale": "Examines decolonising legal education and creating room for Indigenous epistemologies.",
+    "affiliation_evidence": [
+      {
+        "author": "Sophie Rigney",
+        "affiliations": [
+          "Indigenous Law Centre, Faculty of Law, University of New South Wales , Sydney, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 111,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-042",
+    "csv_row": 43,
+    "labels": [
+      4,
+      10
+    ],
+    "word_count": 123,
+    "text_sha256": "a7a625d37ea8ad77c3757753abc87ba5f72fbb7bac33d4d9d0a40cac1ad91a77",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  },
+  {
+    "title": "“We might not be citizens but we are still people”: Australia’s disregard for the human rights of international students during COVID-19",
+    "source_type": "openalex",
+    "source_url": "https://openalex.org/W3155825108",
+    "doi": "https://doi.org/10.1080/1323238x.2021.1901645",
+    "year": 2020,
+    "faculty": "Law & Justice",
+    "label_rationale": "Survey of 5,000+ international students assesses discriminatory exclusion from support and human-rights protections.",
+    "affiliation_evidence": [
+      {
+        "author": "Bassina Farbenblum",
+        "affiliations": [
+          "Faculty of Law, UNSW Sydney, Kensington, Australia"
+        ],
+        "institutions": [
+          "UNSW Sydney"
+        ]
+      }
+    ],
+    "candidate_id": 115,
+    "text_processing": "Reconstructed abstract_inverted_index in token-position order; initial Abstract heading and any separate publisher significance/impact statement removed.",
+    "row_id": "UNSW-043",
+    "csv_row": 44,
+    "labels": [
+      10,
+      16
+    ],
+    "word_count": 198,
+    "text_sha256": "4373aed001376f4d0ae452f2b4583269c8f82c8d4857952a258b5bdaa0adb572",
+    "annotation_method": "Content-based SDG assignment before baseline inference",
+    "retrieved_date": "2026-11-02"
+  }
+]

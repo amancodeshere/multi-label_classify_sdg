@@ -1,0 +1,517 @@
+baseline,row_id,true_labels,predicted_labels
+xlm_roberta/all,UNSW-001,"[9, 12, 13]",[12]
+xlm_roberta/all,UNSW-002,"[8, 12, 16]","[8, 9, 12, 17]"
+xlm_roberta/all,UNSW-003,"[11, 13]",[7]
+xlm_roberta/all,UNSW-004,"[2, 6, 13, 17]","[2, 6]"
+xlm_roberta/all,UNSW-005,"[10, 11]","[11, 16]"
+xlm_roberta/all,UNSW-006,[3],[3]
+xlm_roberta/all,UNSW-007,"[11, 14]","[14, 15]"
+xlm_roberta/all,UNSW-008,"[12, 13]","[12, 17]"
+xlm_roberta/all,UNSW-009,[3],[3]
+xlm_roberta/all,UNSW-010,[3],[3]
+xlm_roberta/all,UNSW-011,[3],[3]
+xlm_roberta/all,UNSW-012,"[3, 10]",[3]
+xlm_roberta/all,UNSW-013,[3],"[3, 10]"
+xlm_roberta/all,UNSW-014,[7],"[7, 13]"
+xlm_roberta/all,UNSW-015,[6],[9]
+xlm_roberta/all,UNSW-016,"[6, 12]",[9]
+xlm_roberta/all,UNSW-017,"[6, 7]",[6]
+xlm_roberta/all,UNSW-018,"[6, 12]",[12]
+xlm_roberta/all,UNSW-019,"[7, 11, 13]",[7]
+xlm_roberta/all,UNSW-020,"[13, 14]",[14]
+xlm_roberta/all,UNSW-021,"[13, 14]",[14]
+xlm_roberta/all,UNSW-022,"[13, 15]",[15]
+xlm_roberta/all,UNSW-023,"[13, 15]",[15]
+xlm_roberta/all,UNSW-024,"[13, 15]",[15]
+xlm_roberta/all,UNSW-025,[13],[13]
+xlm_roberta/all,UNSW-026,"[10, 11]","[1, 11]"
+xlm_roberta/all,UNSW-027,[11],[11]
+xlm_roberta/all,UNSW-028,"[4, 11]","[4, 11]"
+xlm_roberta/all,UNSW-029,"[4, 10]",[4]
+xlm_roberta/all,UNSW-030,"[3, 4, 10]","[4, 5]"
+xlm_roberta/all,UNSW-031,"[4, 10]","[4, 10]"
+xlm_roberta/all,UNSW-032,"[4, 10]",[4]
+xlm_roberta/all,UNSW-033,"[6, 12]",[6]
+xlm_roberta/all,UNSW-034,"[5, 8]",[5]
+xlm_roberta/all,UNSW-035,[12],"[12, 17]"
+xlm_roberta/all,UNSW-036,"[3, 10]",[10]
+xlm_roberta/all,UNSW-037,[7],[7]
+xlm_roberta/all,UNSW-038,"[10, 16]","[1, 17]"
+xlm_roberta/all,UNSW-039,"[10, 13, 16]","[13, 17]"
+xlm_roberta/all,UNSW-040,"[10, 16]","[10, 16, 17]"
+xlm_roberta/all,UNSW-041,"[10, 16]",[16]
+xlm_roberta/all,UNSW-042,"[4, 10]",[16]
+xlm_roberta/all,UNSW-043,"[10, 16]","[1, 10]"
+bert/all,UNSW-001,"[9, 12, 13]","[7, 9, 12]"
+bert/all,UNSW-002,"[8, 12, 16]","[8, 9, 17]"
+bert/all,UNSW-003,"[11, 13]",[7]
+bert/all,UNSW-004,"[2, 6, 13, 17]","[6, 17]"
+bert/all,UNSW-005,"[10, 11]","[3, 10, 11]"
+bert/all,UNSW-006,[3],[3]
+bert/all,UNSW-007,"[11, 14]",[14]
+bert/all,UNSW-008,"[12, 13]","[16, 17]"
+bert/all,UNSW-009,[3],[3]
+bert/all,UNSW-010,[3],[3]
+bert/all,UNSW-011,[3],[3]
+bert/all,UNSW-012,"[3, 10]","[3, 10]"
+bert/all,UNSW-013,[3],[3]
+bert/all,UNSW-014,[7],"[7, 13]"
+bert/all,UNSW-015,[6],[]
+bert/all,UNSW-016,"[6, 12]",[9]
+bert/all,UNSW-017,"[6, 7]",[7]
+bert/all,UNSW-018,"[6, 12]",[12]
+bert/all,UNSW-019,"[7, 11, 13]",[7]
+bert/all,UNSW-020,"[13, 14]",[14]
+bert/all,UNSW-021,"[13, 14]",[14]
+bert/all,UNSW-022,"[13, 15]",[15]
+bert/all,UNSW-023,"[13, 15]",[15]
+bert/all,UNSW-024,"[13, 15]",[15]
+bert/all,UNSW-025,[13],[13]
+bert/all,UNSW-026,"[10, 11]",[1]
+bert/all,UNSW-027,[11],[11]
+bert/all,UNSW-028,"[4, 11]",[4]
+bert/all,UNSW-029,"[4, 10]","[4, 10]"
+bert/all,UNSW-030,"[3, 4, 10]","[4, 5]"
+bert/all,UNSW-031,"[4, 10]","[4, 10]"
+bert/all,UNSW-032,"[4, 10]",[4]
+bert/all,UNSW-033,"[6, 12]",[6]
+bert/all,UNSW-034,"[5, 8]",[5]
+bert/all,UNSW-035,[12],"[8, 17]"
+bert/all,UNSW-036,"[3, 10]",[10]
+bert/all,UNSW-037,[7],[7]
+bert/all,UNSW-038,"[10, 16]",[1]
+bert/all,UNSW-039,"[10, 13, 16]",[13]
+bert/all,UNSW-040,"[10, 16]","[1, 10]"
+bert/all,UNSW-041,"[10, 16]",[16]
+bert/all,UNSW-042,"[4, 10]","[4, 10, 16]"
+bert/all,UNSW-043,"[10, 16]",[10]
+scibert/all,UNSW-001,"[9, 12, 13]","[8, 9, 11, 12, 13]"
+scibert/all,UNSW-002,"[8, 12, 16]","[8, 9, 12, 17]"
+scibert/all,UNSW-003,"[11, 13]","[7, 9, 11, 13]"
+scibert/all,UNSW-004,"[2, 6, 13, 17]","[2, 6, 17]"
+scibert/all,UNSW-005,"[10, 11]","[10, 11]"
+scibert/all,UNSW-006,[3],"[3, 4, 10]"
+scibert/all,UNSW-007,"[11, 14]","[9, 11, 14, 15, 17]"
+scibert/all,UNSW-008,"[12, 13]","[8, 17]"
+scibert/all,UNSW-009,[3],[3]
+scibert/all,UNSW-010,[3],"[3, 10]"
+scibert/all,UNSW-011,[3],"[3, 10]"
+scibert/all,UNSW-012,"[3, 10]","[3, 10]"
+scibert/all,UNSW-013,[3],"[3, 10]"
+scibert/all,UNSW-014,[7],"[7, 11, 13]"
+scibert/all,UNSW-015,[6],"[6, 9]"
+scibert/all,UNSW-016,"[6, 12]","[6, 11, 12]"
+scibert/all,UNSW-017,"[6, 7]",[6]
+scibert/all,UNSW-018,"[6, 12]","[6, 9, 11, 12]"
+scibert/all,UNSW-019,"[7, 11, 13]","[7, 11, 13]"
+scibert/all,UNSW-020,"[13, 14]",[14]
+scibert/all,UNSW-021,"[13, 14]",[14]
+scibert/all,UNSW-022,"[13, 15]","[13, 15]"
+scibert/all,UNSW-023,"[13, 15]",[15]
+scibert/all,UNSW-024,"[13, 15]",[15]
+scibert/all,UNSW-025,[13],[13]
+scibert/all,UNSW-026,"[10, 11]","[1, 8, 10]"
+scibert/all,UNSW-027,[11],[11]
+scibert/all,UNSW-028,"[4, 11]","[4, 10]"
+scibert/all,UNSW-029,"[4, 10]","[4, 10]"
+scibert/all,UNSW-030,"[3, 4, 10]","[4, 5]"
+scibert/all,UNSW-031,"[4, 10]","[4, 10]"
+scibert/all,UNSW-032,"[4, 10]",[4]
+scibert/all,UNSW-033,"[6, 12]","[6, 12, 17]"
+scibert/all,UNSW-034,"[5, 8]",[5]
+scibert/all,UNSW-035,[12],"[8, 9]"
+scibert/all,UNSW-036,"[3, 10]","[3, 10]"
+scibert/all,UNSW-037,[7],[7]
+scibert/all,UNSW-038,"[10, 16]",[16]
+scibert/all,UNSW-039,"[10, 13, 16]",[17]
+scibert/all,UNSW-040,"[10, 16]","[10, 16, 17]"
+scibert/all,UNSW-041,"[10, 16]","[10, 16]"
+scibert/all,UNSW-042,"[4, 10]","[4, 10, 16]"
+scibert/all,UNSW-043,"[10, 16]","[4, 8, 10]"
+biobert/all,UNSW-001,"[9, 12, 13]","[7, 9, 11, 12, 13]"
+biobert/all,UNSW-002,"[8, 12, 16]","[8, 9, 16, 17]"
+biobert/all,UNSW-003,"[11, 13]","[7, 9, 11, 12, 13]"
+biobert/all,UNSW-004,"[2, 6, 13, 17]","[2, 6, 13]"
+biobert/all,UNSW-005,"[10, 11]","[10, 11]"
+biobert/all,UNSW-006,[3],"[3, 4]"
+biobert/all,UNSW-007,"[11, 14]",[14]
+biobert/all,UNSW-008,"[12, 13]","[8, 17]"
+biobert/all,UNSW-009,[3],[3]
+biobert/all,UNSW-010,[3],"[3, 4, 10]"
+biobert/all,UNSW-011,[3],"[3, 10]"
+biobert/all,UNSW-012,"[3, 10]","[3, 10, 16]"
+biobert/all,UNSW-013,[3],"[1, 3, 4, 10]"
+biobert/all,UNSW-014,[7],"[7, 11, 13]"
+biobert/all,UNSW-015,[6],"[6, 11, 13]"
+biobert/all,UNSW-016,"[6, 12]","[12, 13]"
+biobert/all,UNSW-017,"[6, 7]","[6, 7, 11, 13]"
+biobert/all,UNSW-018,"[6, 12]",[12]
+biobert/all,UNSW-019,"[7, 11, 13]","[7, 9, 11, 13]"
+biobert/all,UNSW-020,"[13, 14]",[14]
+biobert/all,UNSW-021,"[13, 14]","[13, 14]"
+biobert/all,UNSW-022,"[13, 15]","[13, 15]"
+biobert/all,UNSW-023,"[13, 15]","[13, 15]"
+biobert/all,UNSW-024,"[13, 15]","[11, 13, 15]"
+biobert/all,UNSW-025,[13],[13]
+biobert/all,UNSW-026,"[10, 11]",[10]
+biobert/all,UNSW-027,[11],"[10, 11]"
+biobert/all,UNSW-028,"[4, 11]",[4]
+biobert/all,UNSW-029,"[4, 10]","[4, 10]"
+biobert/all,UNSW-030,"[3, 4, 10]","[4, 5]"
+biobert/all,UNSW-031,"[4, 10]","[4, 10]"
+biobert/all,UNSW-032,"[4, 10]","[4, 10]"
+biobert/all,UNSW-033,"[6, 12]","[6, 17]"
+biobert/all,UNSW-034,"[5, 8]",[5]
+biobert/all,UNSW-035,[12],"[8, 17]"
+biobert/all,UNSW-036,"[3, 10]",[10]
+biobert/all,UNSW-037,[7],"[7, 13]"
+biobert/all,UNSW-038,"[10, 16]","[16, 17]"
+biobert/all,UNSW-039,"[10, 13, 16]","[16, 17]"
+biobert/all,UNSW-040,"[10, 16]","[16, 17]"
+biobert/all,UNSW-041,"[10, 16]",[16]
+biobert/all,UNSW-042,"[4, 10]","[4, 10, 16]"
+biobert/all,UNSW-043,"[10, 16]",[10]
+roberta_base/all,UNSW-001,"[9, 12, 13]",[12]
+roberta_base/all,UNSW-002,"[8, 12, 16]","[8, 9, 12]"
+roberta_base/all,UNSW-003,"[11, 13]","[7, 9, 13]"
+roberta_base/all,UNSW-004,"[2, 6, 13, 17]","[2, 6, 13]"
+roberta_base/all,UNSW-005,"[10, 11]","[3, 10]"
+roberta_base/all,UNSW-006,[3],[3]
+roberta_base/all,UNSW-007,"[11, 14]",[14]
+roberta_base/all,UNSW-008,"[12, 13]",[17]
+roberta_base/all,UNSW-009,[3],[3]
+roberta_base/all,UNSW-010,[3],[3]
+roberta_base/all,UNSW-011,[3],"[3, 10]"
+roberta_base/all,UNSW-012,"[3, 10]",[3]
+roberta_base/all,UNSW-013,[3],"[3, 4, 10]"
+roberta_base/all,UNSW-014,[7],"[7, 9, 12, 13]"
+roberta_base/all,UNSW-015,[6],"[6, 11, 12, 14]"
+roberta_base/all,UNSW-016,"[6, 12]",[12]
+roberta_base/all,UNSW-017,"[6, 7]",[6]
+roberta_base/all,UNSW-018,"[6, 12]",[12]
+roberta_base/all,UNSW-019,"[7, 11, 13]",[7]
+roberta_base/all,UNSW-020,"[13, 14]",[14]
+roberta_base/all,UNSW-021,"[13, 14]",[14]
+roberta_base/all,UNSW-022,"[13, 15]",[15]
+roberta_base/all,UNSW-023,"[13, 15]",[15]
+roberta_base/all,UNSW-024,"[13, 15]",[15]
+roberta_base/all,UNSW-025,[13],[13]
+roberta_base/all,UNSW-026,"[10, 11]",[1]
+roberta_base/all,UNSW-027,[11],"[9, 11]"
+roberta_base/all,UNSW-028,"[4, 11]",[4]
+roberta_base/all,UNSW-029,"[4, 10]","[4, 10]"
+roberta_base/all,UNSW-030,"[3, 4, 10]",[4]
+roberta_base/all,UNSW-031,"[4, 10]","[4, 10]"
+roberta_base/all,UNSW-032,"[4, 10]",[4]
+roberta_base/all,UNSW-033,"[6, 12]",[6]
+roberta_base/all,UNSW-034,"[5, 8]",[5]
+roberta_base/all,UNSW-035,[12],"[4, 8]"
+roberta_base/all,UNSW-036,"[3, 10]","[3, 10]"
+roberta_base/all,UNSW-037,[7],[7]
+roberta_base/all,UNSW-038,"[10, 16]","[10, 16]"
+roberta_base/all,UNSW-039,"[10, 13, 16]",[13]
+roberta_base/all,UNSW-040,"[10, 16]","[10, 16]"
+roberta_base/all,UNSW-041,"[10, 16]",[16]
+roberta_base/all,UNSW-042,"[4, 10]","[4, 10, 16]"
+roberta_base/all,UNSW-043,"[10, 16]",[10]
+deberta_v3/all,UNSW-001,"[9, 12, 13]",[12]
+deberta_v3/all,UNSW-002,"[8, 12, 16]","[4, 10, 11, 16, 17]"
+deberta_v3/all,UNSW-003,"[11, 13]","[7, 11, 13]"
+deberta_v3/all,UNSW-004,"[2, 6, 13, 17]",[17]
+deberta_v3/all,UNSW-005,"[10, 11]","[5, 10, 11, 16]"
+deberta_v3/all,UNSW-006,[3],"[3, 10, 11]"
+deberta_v3/all,UNSW-007,"[11, 14]",[15]
+deberta_v3/all,UNSW-008,"[12, 13]","[10, 16, 17]"
+deberta_v3/all,UNSW-009,[3],[3]
+deberta_v3/all,UNSW-010,[3],[3]
+deberta_v3/all,UNSW-011,[3],"[3, 10, 11]"
+deberta_v3/all,UNSW-012,"[3, 10]","[4, 5, 10, 11, 16]"
+deberta_v3/all,UNSW-013,[3],"[3, 4, 5, 10, 11, 16]"
+deberta_v3/all,UNSW-014,[7],[]
+deberta_v3/all,UNSW-015,[6],[11]
+deberta_v3/all,UNSW-016,"[6, 12]",[12]
+deberta_v3/all,UNSW-017,"[6, 7]",[7]
+deberta_v3/all,UNSW-018,"[6, 12]",[12]
+deberta_v3/all,UNSW-019,"[7, 11, 13]","[7, 13]"
+deberta_v3/all,UNSW-020,"[13, 14]",[14]
+deberta_v3/all,UNSW-021,"[13, 14]",[14]
+deberta_v3/all,UNSW-022,"[13, 15]",[15]
+deberta_v3/all,UNSW-023,"[13, 15]",[15]
+deberta_v3/all,UNSW-024,"[13, 15]",[15]
+deberta_v3/all,UNSW-025,[13],[13]
+deberta_v3/all,UNSW-026,"[10, 11]","[1, 10, 11, 16]"
+deberta_v3/all,UNSW-027,[11],"[11, 17]"
+deberta_v3/all,UNSW-028,"[4, 11]","[1, 4, 10]"
+deberta_v3/all,UNSW-029,"[4, 10]","[4, 5, 10]"
+deberta_v3/all,UNSW-030,"[3, 4, 10]","[4, 5, 10]"
+deberta_v3/all,UNSW-031,"[4, 10]","[4, 10]"
+deberta_v3/all,UNSW-032,"[4, 10]","[4, 5, 10]"
+deberta_v3/all,UNSW-033,"[6, 12]",[11]
+deberta_v3/all,UNSW-034,"[5, 8]",[5]
+deberta_v3/all,UNSW-035,[12],"[4, 8, 10, 11, 17]"
+deberta_v3/all,UNSW-036,"[3, 10]","[3, 10]"
+deberta_v3/all,UNSW-037,[7],[7]
+deberta_v3/all,UNSW-038,"[10, 16]","[10, 16]"
+deberta_v3/all,UNSW-039,"[10, 13, 16]",[16]
+deberta_v3/all,UNSW-040,"[10, 16]","[10, 16]"
+deberta_v3/all,UNSW-041,"[10, 16]",[16]
+deberta_v3/all,UNSW-042,"[4, 10]","[4, 5, 10, 11, 16]"
+deberta_v3/all,UNSW-043,"[10, 16]","[4, 10]"
+xlm_roberta/en,UNSW-001,"[9, 12, 13]",[12]
+xlm_roberta/en,UNSW-002,"[8, 12, 16]","[4, 8, 9, 17]"
+xlm_roberta/en,UNSW-003,"[11, 13]","[7, 9, 11, 12, 13]"
+xlm_roberta/en,UNSW-004,"[2, 6, 13, 17]",[17]
+xlm_roberta/en,UNSW-005,"[10, 11]","[10, 11, 16]"
+xlm_roberta/en,UNSW-006,[3],[3]
+xlm_roberta/en,UNSW-007,"[11, 14]","[9, 11, 15]"
+xlm_roberta/en,UNSW-008,"[12, 13]","[16, 17]"
+xlm_roberta/en,UNSW-009,[3],[3]
+xlm_roberta/en,UNSW-010,[3],[3]
+xlm_roberta/en,UNSW-011,[3],[3]
+xlm_roberta/en,UNSW-012,"[3, 10]",[10]
+xlm_roberta/en,UNSW-013,[3],"[3, 10]"
+xlm_roberta/en,UNSW-014,[7],"[7, 11, 13]"
+xlm_roberta/en,UNSW-015,[6],"[9, 11, 13]"
+xlm_roberta/en,UNSW-016,"[6, 12]","[9, 12]"
+xlm_roberta/en,UNSW-017,"[6, 7]","[7, 9, 11, 13]"
+xlm_roberta/en,UNSW-018,"[6, 12]",[12]
+xlm_roberta/en,UNSW-019,"[7, 11, 13]","[7, 9, 11, 13]"
+xlm_roberta/en,UNSW-020,"[13, 14]",[14]
+xlm_roberta/en,UNSW-021,"[13, 14]",[14]
+xlm_roberta/en,UNSW-022,"[13, 15]",[15]
+xlm_roberta/en,UNSW-023,"[13, 15]",[13]
+xlm_roberta/en,UNSW-024,"[13, 15]",[15]
+xlm_roberta/en,UNSW-025,[13],[13]
+xlm_roberta/en,UNSW-026,"[10, 11]",[11]
+xlm_roberta/en,UNSW-027,[11],[11]
+xlm_roberta/en,UNSW-028,"[4, 11]","[4, 11]"
+xlm_roberta/en,UNSW-029,"[4, 10]","[4, 10]"
+xlm_roberta/en,UNSW-030,"[3, 4, 10]","[4, 5, 10]"
+xlm_roberta/en,UNSW-031,"[4, 10]","[4, 10]"
+xlm_roberta/en,UNSW-032,"[4, 10]","[4, 10]"
+xlm_roberta/en,UNSW-033,"[6, 12]",[6]
+xlm_roberta/en,UNSW-034,"[5, 8]",[5]
+xlm_roberta/en,UNSW-035,[12],"[4, 17]"
+xlm_roberta/en,UNSW-036,"[3, 10]",[10]
+xlm_roberta/en,UNSW-037,[7],[7]
+xlm_roberta/en,UNSW-038,"[10, 16]","[10, 16]"
+xlm_roberta/en,UNSW-039,"[10, 13, 16]",[13]
+xlm_roberta/en,UNSW-040,"[10, 16]","[10, 16]"
+xlm_roberta/en,UNSW-041,"[10, 16]",[16]
+xlm_roberta/en,UNSW-042,"[4, 10]","[4, 16]"
+xlm_roberta/en,UNSW-043,"[10, 16]",[1]
+bert/en,UNSW-001,"[9, 12, 13]","[7, 9, 12]"
+bert/en,UNSW-002,"[8, 12, 16]","[8, 9, 17]"
+bert/en,UNSW-003,"[11, 13]","[7, 9, 13]"
+bert/en,UNSW-004,"[2, 6, 13, 17]",[6]
+bert/en,UNSW-005,"[10, 11]","[3, 10, 11, 13]"
+bert/en,UNSW-006,[3],[3]
+bert/en,UNSW-007,"[11, 14]","[14, 15]"
+bert/en,UNSW-008,"[12, 13]",[17]
+bert/en,UNSW-009,[3],[3]
+bert/en,UNSW-010,[3],[3]
+bert/en,UNSW-011,[3],[3]
+bert/en,UNSW-012,"[3, 10]","[3, 10]"
+bert/en,UNSW-013,[3],[3]
+bert/en,UNSW-014,[7],"[7, 13]"
+bert/en,UNSW-015,[6],"[7, 9, 13]"
+bert/en,UNSW-016,"[6, 12]",[9]
+bert/en,UNSW-017,"[6, 7]","[6, 7, 13]"
+bert/en,UNSW-018,"[6, 12]",[12]
+bert/en,UNSW-019,"[7, 11, 13]","[7, 13]"
+bert/en,UNSW-020,"[13, 14]",[14]
+bert/en,UNSW-021,"[13, 14]",[14]
+bert/en,UNSW-022,"[13, 15]",[15]
+bert/en,UNSW-023,"[13, 15]","[13, 15]"
+bert/en,UNSW-024,"[13, 15]",[15]
+bert/en,UNSW-025,[13],[13]
+bert/en,UNSW-026,"[10, 11]",[11]
+bert/en,UNSW-027,[11],"[11, 13]"
+bert/en,UNSW-028,"[4, 11]",[4]
+bert/en,UNSW-029,"[4, 10]","[4, 10]"
+bert/en,UNSW-030,"[3, 4, 10]","[4, 5]"
+bert/en,UNSW-031,"[4, 10]","[4, 10]"
+bert/en,UNSW-032,"[4, 10]","[4, 10]"
+bert/en,UNSW-033,"[6, 12]",[6]
+bert/en,UNSW-034,"[5, 8]",[5]
+bert/en,UNSW-035,[12],"[8, 9, 17]"
+bert/en,UNSW-036,"[3, 10]",[10]
+bert/en,UNSW-037,[7],[7]
+bert/en,UNSW-038,"[10, 16]","[1, 10]"
+bert/en,UNSW-039,"[10, 13, 16]",[13]
+bert/en,UNSW-040,"[10, 16]",[10]
+bert/en,UNSW-041,"[10, 16]",[16]
+bert/en,UNSW-042,"[4, 10]","[4, 10, 16]"
+bert/en,UNSW-043,"[10, 16]",[10]
+scibert/en,UNSW-001,"[9, 12, 13]","[9, 12]"
+scibert/en,UNSW-002,"[8, 12, 16]","[9, 11, 17]"
+scibert/en,UNSW-003,"[11, 13]",[13]
+scibert/en,UNSW-004,"[2, 6, 13, 17]","[6, 17]"
+scibert/en,UNSW-005,"[10, 11]","[10, 11]"
+scibert/en,UNSW-006,[3],[3]
+scibert/en,UNSW-007,"[11, 14]",[14]
+scibert/en,UNSW-008,"[12, 13]",[16]
+scibert/en,UNSW-009,[3],[3]
+scibert/en,UNSW-010,[3],[3]
+scibert/en,UNSW-011,[3],[3]
+scibert/en,UNSW-012,"[3, 10]",[3]
+scibert/en,UNSW-013,[3],"[3, 10]"
+scibert/en,UNSW-014,[7],"[7, 11, 13]"
+scibert/en,UNSW-015,[6],"[9, 11]"
+scibert/en,UNSW-016,"[6, 12]",[6]
+scibert/en,UNSW-017,"[6, 7]",[6]
+scibert/en,UNSW-018,"[6, 12]",[12]
+scibert/en,UNSW-019,"[7, 11, 13]","[7, 13]"
+scibert/en,UNSW-020,"[13, 14]",[14]
+scibert/en,UNSW-021,"[13, 14]",[14]
+scibert/en,UNSW-022,"[13, 15]","[13, 15]"
+scibert/en,UNSW-023,"[13, 15]","[13, 15]"
+scibert/en,UNSW-024,"[13, 15]",[15]
+scibert/en,UNSW-025,[13],[13]
+scibert/en,UNSW-026,"[10, 11]","[1, 10, 11]"
+scibert/en,UNSW-027,[11],[11]
+scibert/en,UNSW-028,"[4, 11]",[4]
+scibert/en,UNSW-029,"[4, 10]",[4]
+scibert/en,UNSW-030,"[3, 4, 10]","[1, 4, 5, 10]"
+scibert/en,UNSW-031,"[4, 10]",[4]
+scibert/en,UNSW-032,"[4, 10]",[4]
+scibert/en,UNSW-033,"[6, 12]",[6]
+scibert/en,UNSW-034,"[5, 8]",[5]
+scibert/en,UNSW-035,[12],[17]
+scibert/en,UNSW-036,"[3, 10]","[3, 10]"
+scibert/en,UNSW-037,[7],[7]
+scibert/en,UNSW-038,"[10, 16]",[16]
+scibert/en,UNSW-039,"[10, 13, 16]",[13]
+scibert/en,UNSW-040,"[10, 16]",[16]
+scibert/en,UNSW-041,"[10, 16]",[16]
+scibert/en,UNSW-042,"[4, 10]","[4, 5, 16]"
+scibert/en,UNSW-043,"[10, 16]","[4, 10]"
+biobert/en,UNSW-001,"[9, 12, 13]",[12]
+biobert/en,UNSW-002,"[8, 12, 16]","[8, 9, 17]"
+biobert/en,UNSW-003,"[11, 13]","[7, 12, 13]"
+biobert/en,UNSW-004,"[2, 6, 13, 17]",[6]
+biobert/en,UNSW-005,"[10, 11]",[11]
+biobert/en,UNSW-006,[3],[3]
+biobert/en,UNSW-007,"[11, 14]",[14]
+biobert/en,UNSW-008,"[12, 13]","[12, 17]"
+biobert/en,UNSW-009,[3],[3]
+biobert/en,UNSW-010,[3],[3]
+biobert/en,UNSW-011,[3],[3]
+biobert/en,UNSW-012,"[3, 10]",[3]
+biobert/en,UNSW-013,[3],[3]
+biobert/en,UNSW-014,[7],"[7, 13]"
+biobert/en,UNSW-015,[6],[]
+biobert/en,UNSW-016,"[6, 12]","[12, 13]"
+biobert/en,UNSW-017,"[6, 7]","[6, 7, 13]"
+biobert/en,UNSW-018,"[6, 12]",[12]
+biobert/en,UNSW-019,"[7, 11, 13]","[7, 13]"
+biobert/en,UNSW-020,"[13, 14]",[14]
+biobert/en,UNSW-021,"[13, 14]",[14]
+biobert/en,UNSW-022,"[13, 15]",[15]
+biobert/en,UNSW-023,"[13, 15]",[15]
+biobert/en,UNSW-024,"[13, 15]",[15]
+biobert/en,UNSW-025,[13],[13]
+biobert/en,UNSW-026,"[10, 11]",[11]
+biobert/en,UNSW-027,[11],[11]
+biobert/en,UNSW-028,"[4, 11]",[4]
+biobert/en,UNSW-029,"[4, 10]",[4]
+biobert/en,UNSW-030,"[3, 4, 10]","[4, 5]"
+biobert/en,UNSW-031,"[4, 10]",[4]
+biobert/en,UNSW-032,"[4, 10]",[4]
+biobert/en,UNSW-033,"[6, 12]",[6]
+biobert/en,UNSW-034,"[5, 8]",[5]
+biobert/en,UNSW-035,[12],"[8, 17]"
+biobert/en,UNSW-036,"[3, 10]",[3]
+biobert/en,UNSW-037,[7],[7]
+biobert/en,UNSW-038,"[10, 16]",[16]
+biobert/en,UNSW-039,"[10, 13, 16]",[13]
+biobert/en,UNSW-040,"[10, 16]",[]
+biobert/en,UNSW-041,"[10, 16]",[16]
+biobert/en,UNSW-042,"[4, 10]","[4, 16]"
+biobert/en,UNSW-043,"[10, 16]",[10]
+roberta_base/en,UNSW-001,"[9, 12, 13]",[12]
+roberta_base/en,UNSW-002,"[8, 12, 16]","[8, 9, 17]"
+roberta_base/en,UNSW-003,"[11, 13]","[7, 13]"
+roberta_base/en,UNSW-004,"[2, 6, 13, 17]",[2]
+roberta_base/en,UNSW-005,"[10, 11]","[3, 11]"
+roberta_base/en,UNSW-006,[3],[3]
+roberta_base/en,UNSW-007,"[11, 14]",[14]
+roberta_base/en,UNSW-008,"[12, 13]","[16, 17]"
+roberta_base/en,UNSW-009,[3],[3]
+roberta_base/en,UNSW-010,[3],[3]
+roberta_base/en,UNSW-011,[3],[3]
+roberta_base/en,UNSW-012,"[3, 10]",[3]
+roberta_base/en,UNSW-013,[3],"[3, 10]"
+roberta_base/en,UNSW-014,[7],"[7, 9, 12, 13]"
+roberta_base/en,UNSW-015,[6],[12]
+roberta_base/en,UNSW-016,"[6, 12]",[12]
+roberta_base/en,UNSW-017,"[6, 7]","[6, 12]"
+roberta_base/en,UNSW-018,"[6, 12]",[12]
+roberta_base/en,UNSW-019,"[7, 11, 13]","[7, 13]"
+roberta_base/en,UNSW-020,"[13, 14]",[14]
+roberta_base/en,UNSW-021,"[13, 14]",[14]
+roberta_base/en,UNSW-022,"[13, 15]",[15]
+roberta_base/en,UNSW-023,"[13, 15]",[15]
+roberta_base/en,UNSW-024,"[13, 15]",[15]
+roberta_base/en,UNSW-025,[13],[13]
+roberta_base/en,UNSW-026,"[10, 11]",[1]
+roberta_base/en,UNSW-027,[11],[11]
+roberta_base/en,UNSW-028,"[4, 11]",[4]
+roberta_base/en,UNSW-029,"[4, 10]","[4, 10]"
+roberta_base/en,UNSW-030,"[3, 4, 10]","[4, 5]"
+roberta_base/en,UNSW-031,"[4, 10]","[4, 10, 11]"
+roberta_base/en,UNSW-032,"[4, 10]",[4]
+roberta_base/en,UNSW-033,"[6, 12]",[12]
+roberta_base/en,UNSW-034,"[5, 8]",[5]
+roberta_base/en,UNSW-035,[12],"[8, 17]"
+roberta_base/en,UNSW-036,"[3, 10]","[3, 10]"
+roberta_base/en,UNSW-037,[7],[7]
+roberta_base/en,UNSW-038,"[10, 16]","[10, 16]"
+roberta_base/en,UNSW-039,"[10, 13, 16]",[13]
+roberta_base/en,UNSW-040,"[10, 16]","[10, 16]"
+roberta_base/en,UNSW-041,"[10, 16]",[16]
+roberta_base/en,UNSW-042,"[4, 10]","[4, 10, 16, 17]"
+roberta_base/en,UNSW-043,"[10, 16]","[1, 8, 10]"
+deberta_v3/en,UNSW-001,"[9, 12, 13]","[9, 12]"
+deberta_v3/en,UNSW-002,"[8, 12, 16]","[8, 9]"
+deberta_v3/en,UNSW-003,"[11, 13]","[7, 11, 13]"
+deberta_v3/en,UNSW-004,"[2, 6, 13, 17]",[]
+deberta_v3/en,UNSW-005,"[10, 11]","[3, 10, 11]"
+deberta_v3/en,UNSW-006,[3],[3]
+deberta_v3/en,UNSW-007,"[11, 14]","[11, 13]"
+deberta_v3/en,UNSW-008,"[12, 13]",[16]
+deberta_v3/en,UNSW-009,[3],[3]
+deberta_v3/en,UNSW-010,[3],[3]
+deberta_v3/en,UNSW-011,[3],[3]
+deberta_v3/en,UNSW-012,"[3, 10]",[3]
+deberta_v3/en,UNSW-013,[3],[3]
+deberta_v3/en,UNSW-014,[7],"[8, 9]"
+deberta_v3/en,UNSW-015,[6],"[7, 9]"
+deberta_v3/en,UNSW-016,"[6, 12]","[7, 9, 13]"
+deberta_v3/en,UNSW-017,"[6, 7]",[7]
+deberta_v3/en,UNSW-018,"[6, 12]",[12]
+deberta_v3/en,UNSW-019,"[7, 11, 13]",[7]
+deberta_v3/en,UNSW-020,"[13, 14]",[14]
+deberta_v3/en,UNSW-021,"[13, 14]",[14]
+deberta_v3/en,UNSW-022,"[13, 15]",[15]
+deberta_v3/en,UNSW-023,"[13, 15]","[13, 15]"
+deberta_v3/en,UNSW-024,"[13, 15]",[15]
+deberta_v3/en,UNSW-025,[13],[13]
+deberta_v3/en,UNSW-026,"[10, 11]","[1, 10]"
+deberta_v3/en,UNSW-027,[11],[11]
+deberta_v3/en,UNSW-028,"[4, 11]",[10]
+deberta_v3/en,UNSW-029,"[4, 10]","[4, 10]"
+deberta_v3/en,UNSW-030,"[3, 4, 10]",[5]
+deberta_v3/en,UNSW-031,"[4, 10]",[4]
+deberta_v3/en,UNSW-032,"[4, 10]","[4, 10]"
+deberta_v3/en,UNSW-033,"[6, 12]","[8, 9, 12]"
+deberta_v3/en,UNSW-034,"[5, 8]",[5]
+deberta_v3/en,UNSW-035,[12],[8]
+deberta_v3/en,UNSW-036,"[3, 10]",[10]
+deberta_v3/en,UNSW-037,[7],[7]
+deberta_v3/en,UNSW-038,"[10, 16]",[16]
+deberta_v3/en,UNSW-039,"[10, 13, 16]",[16]
+deberta_v3/en,UNSW-040,"[10, 16]",[10]
+deberta_v3/en,UNSW-041,"[10, 16]",[16]
+deberta_v3/en,UNSW-042,"[4, 10]",[10]
+deberta_v3/en,UNSW-043,"[10, 16]",[10]

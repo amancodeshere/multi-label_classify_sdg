@@ -1,0 +1,7 @@
+dataset,split,exact_text_overlap
+sdgi_report_grouped,train,0
+sdgi_report_grouped,validation,0
+sdgi_report_grouped,test,0
+sdgi_report_grouped_en,train,0
+sdgi_report_grouped_en,validation,0
+sdgi_report_grouped_en,test,0

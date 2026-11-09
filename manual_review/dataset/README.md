@@ -1,0 +1,18 @@
+# UNSW SDG abstract evaluation dataset
+
+`unsw_sdg_abstracts.csv` has exactly 43 unique rows and two columns:
+
+- `text`: an English abstract or substantial abstract-like research summary.
+- `labels`: a JSON array of one-based SDG integers, for example `[6, 12]`.
+
+The dataset contains 8 summaries from the UNSW SDG Showcase (3 from Presentations & workshops, 5 from Exhibition stalls) and 35 research article abstracts retrieved from OpenAlex on 2 November 2026. All texts contain at least 100 words. Showcase texts describe a research problem, approach and contribution; event logistics and host biographies are omitted. Short announcements, generic institutional promotions, teaching activities without a substantive research description, and duplicate project descriptions were excluded. The richer exhibition description was used for neurodiverse public spaces rather than repeating its workshop description. The general underwater panel was excluded in favour of the distinct BioShelter research description.
+
+OpenAlex selection required an abstract, article type, publication date between 1 January 2020 and 2 November 2026, and at least one author affiliated with UNSW Sydney (`I31746571`) or UNSW Canberra (`I4394709116`). Abstracts were reconstructed from `abstract_inverted_index` by token position. Separate publisher significance/impact statements prepended to two abstracts were removed, retaining the research abstracts. Text was not rewritten or expanded. Indexed publication types and affiliations are OpenAlex metadata and can contain errors.
+
+The OpenAlex component includes Medicine & Health (5), Engineering (5), Science (5), Arts, Design & Architecture (6), Business (6), Law & Justice (6), and UNSW Canberra (2). Canberra is a campus grouping, not an additional Sydney faculty. Faculty grouping follows the affiliated UNSW school, institute or author's research appointment; raw affiliation evidence is preserved. Interdisciplinary research may span other faculties too. Broad retrieval queries covered cardiovascular trials, mental health, solar cells, wastewater, marine ecology, bushfires, housing, inclusive education, corporate disclosure, gender inequality, refugee law and human rights. Final inclusion was based on full-abstract inspection, not query category alone.
+
+Labels were assigned from the complete text before baseline inference, rather than using OpenAlex's automatic SDG assignments. Labels reflect substantive objectives or outcomes. Methods and incidental references do not automatically receive additional SDGs. Each item has an explicit rationale in `provenance.json`. Label support is uneven; SDG 1 has no positive reference examples. The set is purposive and too small for population-level claims or reliable fine-grained faculty rankings.
+
+`provenance.json` aligns one-to-one with CSV rows and records IDs, titles, source URLs, DOIs, author affiliation evidence, faculty grouping, labels, rationales, processing and text hashes. `openalex_selected_works.json` preserves the 35 full OpenAlex records. `showcase_source.md` preserves the page as retrieved through Jina Reader. Source text remains attributable to its original authors; this collection does not grant a new licence over the abstracts.
+
+Run `../manual_review.ipynb` in the existing `thesis` Python environment. It loads all 12 locally saved report-grouped checkpoints, evaluates at the original threshold of 0.5, logs the experiment to W&B, and saves comparison scores and predictions under `../results/`. No training or threshold tuning uses this dataset. The original detailed evaluation's overlap checks and diagnostics remain in that directory. Exact-text checks cannot rule out paraphrased overlap or exposure during model pretraining.

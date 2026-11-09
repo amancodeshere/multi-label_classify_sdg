@@ -1,0 +1,4 @@
+split,passages,percentage,reports
+train,4226,80.01,214
+validation,528,10.0,50
+test,528,10.0,51
